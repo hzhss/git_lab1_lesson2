@@ -1,3 +1,15 @@
 у одного человечка большая шляпа(в master) у другого маленькая(в demo)
 у одного человечка большие ботинки(в master) у другого маленькие(в demo)
+В удаленном репозитории 11 комитов.
+Комментарии из них:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+add hometask.txt
 
